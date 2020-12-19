@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\suhar\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "anoka",
+            "database": "${workspaceFolder:Anoka}/anoka_.db"
+        }
+    ]
+}

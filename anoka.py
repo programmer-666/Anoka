@@ -1,3 +1,3 @@
-from anoka_module import mainClass
+import anoka_module
 if __name__ == "__main__":
-    mainClass()
+    anoka_module.mainClass()
