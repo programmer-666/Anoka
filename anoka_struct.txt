@@ -1,4 +1,0 @@
-ANOKA 
-createDatabase(dbname="anoka_.db")
-	taking database name
-	
